@@ -1,0 +1,6 @@
+COVID-19 pneumonia - AGE : 55 years, GENDER : Male
+Presentation : Attended the emergency department for progressive dyspnea in the last few days along with fever and cough.
+On the blood test, lymphopenia is detected.
+X-ray : Bilateral and peripheral alveolar consolidations, more prominent in the left lung.
+Case Discussion : We present a case of SARS-CoV-2 associated pneumonia (COVID-19), highlighting the extensive pulmonary involvement in a middle-aged patient.
+After chest x-ray, PCR was positive to SARS-CoV-2 RNA.

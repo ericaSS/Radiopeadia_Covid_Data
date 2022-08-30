@@ -1,0 +1,7 @@
+COVID-19 pneumonia - AGE : 50 years, GENDER : Male
+Presentation : Fever and sore throat for few days.
+No history of recent travel.
+CT : Multiple bilateral pulmonary ground glass opacities are seen, more predominant at lower lung lobes.
+Case Discussion : This male patient presented with fever and upper respiratory tract symptoms to ER.
+Clinical triaging was suspicious for COVID-19 pneumonia.
+The patient underwent CT scan which revealed bilateral pulmonary ground glass opacities that are commonly seen with COVID-19 pneumonia, that was subsequently confirmed by a nasopharyngeal swab.

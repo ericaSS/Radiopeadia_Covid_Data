@@ -1,0 +1,15 @@
+COVID-19 pneumonia - AGE : 60 years, GENDER : Male
+Presentation : Patient presented with pyrexia and dyspnea.
+Past medical history of hypertension, GERD, and asthma.
+Lymphopenia on admission.
+X-ray :  Subtle bilateral peripheral air space opacification predominantly in the right upper and both mid zones.
+No pleural effusions.
+Hiatus hernia.
+Day-8 : Radiological progression with dense peripheral right upper lobe consolidation.
+Peripheral areas of air space opacification in the left hemithorax are also now more conspicuous.
+The nasogastric tube is inappropriately positioned in the esophagus requiring resiting.
+Case Discussion : This case demonstrates the rapid progression of radiological findings from a mild to severe spectrum.
+Peripheral predominance is a highly reported finding of COVID-19 pneumonia.
+The pattern of progression in correlation with viral PCR was diagnostic of COVID-19 pneumonia.
+The initial radiograph could be considered 'equivocal' however appearances were confirmed with positive PCR analysis.
+Equivocal cases can be investigated further with chest CT imaging in the absence of a positive PCR.

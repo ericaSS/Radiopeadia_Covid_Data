@@ -1,0 +1,13 @@
+COVID-19 pneumonia AGE : 40 years, GENDER : Male
+Presentation : Fever, cough and breathlessness since 3 days.
+No co-morbidities.
+CT : CT chest plain images show multifocal areas of ground glass opacities, distributed peripherally in both lungs, predominantly in both lower lobes.
+There were focal areas of interlobular septal thickening in the background of ground glass changes in lingular segment, representing crazy paving.
+Large consolidation is noted in left lower lobe.
+No cavitations.
+No pleural effusion.
+No significant lymphadenopathy.
+These features are highly suspicious for corona virus infection, which were proved by positive PCR test.
+Case Discussion : CT chest findings vary depending on the stage at which the suspected COVID-19 patient is screened.
+Peripherally distributed scattered ground glass opacities are the most common findings, with crazy paving pattern and consolidations developing later in the disease.
+CO-RADS staging system has been developed to guide proper clinico-radiological correlation.

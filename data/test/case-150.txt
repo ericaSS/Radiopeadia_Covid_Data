@@ -1,0 +1,13 @@
+COVID-19 - pneumomediastinum AGE : None, GENDER : None
+Presentation : Patient with no co-morbidities was admitted to hospital with a week history of fever, cough and SOB.
+The RT-PCR confirmed a SARS-CoV-2 infection.
+CT : CT performed at the admission shows the typical findings of Sars-CoV-2 infection.
+There is a bilateral subpleural, peripheral evidence of ground-glass opacities.
+Due to an acute respiratory failure the patient underwent medical invasive ventilation.
+There is an endotracheal tube in site.
+A large pneumomediastinum with air decompressing along cervical fascial planes into the subcutaneous tissue.
+Diffuse ground-glass opacities (GGO) are still present bilaterally in all lobes with developing of areas of “crazy paving” increased density and, in the RUL, consolidations with a prevalent subpleural distribution.
+Case Discussion : Respiratory failure is one of the worst complications occurring in patients with Sars-CoV-2 infection and can be life-threatening.
+Treatment involves the use of mechanical ventilation, which may be non-invasive (through nasal or face mask, nasal plugs) or invasive (eg.
+use of endotracheal tube).
+One of the complications that may appear in this type of treatment is pneumomediastinum secondary to alveolar rupture, which results in air leakage into the extra-alveolar interstitium.

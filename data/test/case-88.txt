@@ -1,0 +1,6 @@
+COVID-19 pneumonia - AGE : 65 years, GENDER : Male
+Presentation : The patient with cough, temperature, dyspnea and headache.
+CT : Multifocal ground glass, mainly in the periphery of both lungs.
+Case Discussion : The patient had these complaints 10 days prior.
+Two tests were made for COVID-19, but both of were negative.
+After the CT scan, a 3rd test was performed and the result was positive.

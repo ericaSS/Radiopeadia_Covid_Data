@@ -1,0 +1,12 @@
+COVID-19 pneumonia - AGE : 70 years, GENDER : Female
+Presentation : This patient presented with a sore throat, persistent cough, dizziness, and fever for 15 days.
+She also had Hypotension, desaturation, and elevation of D-Dimer.
+CT : CT shows bilateral, multilobar large areas of ground-glass opacities with septal thickening and a crazy-paving pattern, associated with airspace consolidations.
+Lesions are mostly in the peripheral and posterior parts of the lungs.
+There are no pleural or pericardial effusion.
+This patient tested positive for SARS-CoV-2 and had typical CT findings of the disease.
+Thus it was deemed to have COVID-19 pneumonia.
+Case Discussion : Covid-19 is a viral disease caused by SARS-CoV-2, which transmission is primarily human-to-human.
+CT is recommended in patients with suspected COVID-19 because it may show characteristics findings of the disease.
+1,2.
+This case illustrates a patient with the typical CT features of COVID-19 pneumonia, which was confirmed by laboratory tests.

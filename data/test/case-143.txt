@@ -1,0 +1,4 @@
+COVID-19 pneumonia AGE : 45 years, GENDER : Female
+Presentation : Positive rt-PCR test
+CT : Smooth bilateral subpleural ground-glass areas.
+Case Discussion : A very early stage of SARS-Cov-2 disease.

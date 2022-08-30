@@ -1,0 +1,11 @@
+COVID-19 pneumonia - AGE : 50 years, GENDER : Male
+Presentation : Marked dyspnea with dry cough and high fever for about nine days
+X-ray : Examination within the limits of the norm.
+On the same day, the patient performed a chest CT scan.
+CT : There are large bilateral pure ground-glass opacities in the upper and lower lobes prevalent in the dorsal region, with peripheral distribution and slightly dilated vessels in the affected area.
+Ground-glass opacities with a rounded morphology are also present in the middle lobe and lingula.
+On the right, there is a modest amount of pleural effusion in the inter-lobar fissure with thin fibrous bands in the medial segment of the ipsilateral lower lobe.
+No pathological adenopathies.
+Pathology : Nasopharyngeal swab report revealed positive for Coronavirus SARS-CoV-2.
+Case Discussion : The chest film may be insensitive at the beginning of the disease.
+The main CT findings in pneumonia COVID-19 are ground-glass and consolidative pulmonary opacities, and these findings are more frequent with longer time from symptom onset.

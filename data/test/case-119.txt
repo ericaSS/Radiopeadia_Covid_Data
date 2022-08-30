@@ -1,0 +1,11 @@
+COVID-19 infection - exclusive gastrointestinal symptoms - AGE : 75 years, GENDER : Male
+Presentation : Presents to the primary care center for a week's worth of diarrhea, fever and malaise.
+No respiratory symptoms were reported.
+Blood test only shows high CRP.
+A chest x-ray is performed.
+X-ray : Multiple faint alveolar opacities are identified, predominantly peripheral with greater involvement of the upper lobes.
+Case Discussion : Although the initial clinical suspicion was gastroenteritis in this case, after the radiological findings PCR was requested for SARS-CoV-2, which was positive.
+We present this case of coronavirus infection to highlight presentation with only gastrointestinal symptoms.
+Recently, more cases have been reported in which these symptoms (diarrhea, nausea, vomiting, fever) precede the respiratory symptoms 2.
+In this case, we show how in these situations the chest x-ray can raise the possibility of COVID-19 infection, allowing early diagnosis and predictably a better outcome.
+Epidemiological context and high clinical suspicion are fundamental aspects for proper diagnosis, so radiologists must be familiar with these subtle findings in plain radiography to contribute to the best possible care in these patients.

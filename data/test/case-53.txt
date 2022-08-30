@@ -1,0 +1,10 @@
+COVID-19 pneumonia - AGE : 70 years, GENDER : Male
+Presentation : Fever, cough, breathing difficulties for about ten days.
+X-ray : Vertical air space consolidation along the left costal margin.
+CT : There are large areas of ground glass opacities in the lower right lobe, in the upper lobes, with interlobular septal thickening in the subpleural area.
+Paraseptal emphysema is present in the upper lobes.
+No evidence of mediastinal adenopathy.
+Pathology : Cytological report showing positivity for SARS-CoV-2 in a nasopharyngeal aspirate using the confirmatory reverse transcriptase-polymerase chain reaction (RT-PCR) test.
+Case Discussion : In the right clinical context large ground-grass opacity lesions, predominantly in the peripheral and posterior lungs on CT, are diagnostic of COVID-19 pneumonia.
+Note the absence of mediastinal adenopathy which is not usually seen in COVID-19 and should suggest the presence of superadded infection, e.g.
+bacterial pneumonia.

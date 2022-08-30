@@ -1,0 +1,11 @@
+COVID-19 pneumonia AGE : 70 years, GENDER : male
+Presentation : This patient presented to the ER with fever, cough, myalgia, and mild hypoxemia, starting 5 days ago.
+CT : CT demonstrates a mild amount of multifocal ground-glass opacities in both lungs with a peripheral predominance and very tenuous areas of crazy-paving beginning to emerge.
+This patient tested positive for SARS-CoV-2, and the CT findings are consistent with the initial-progressive stage (stages 1-2) for COVID-19 pneumonia.
+CT shows the disease's progression to the peak stage (stage 3), characterized by enlargement of the multilobar areas of ground-glass opacities affecting both lungs, with superimposed interlobular septal thickening and intralobular lines ("crazy-paving"), associated with airspace consolidations.
+No pleural effusion, neither enlarged mediastinal lymph nodes.
+Case Discussion : COVID-19 is a disease caused by the virus SARS-CoV-2.
+Chest CT presents a temporal dynamic radiologic pattern of this respiratory infection, characterized by four stages of the disease: early, progressive, peak, and absorption (stages 1, 2, 3, and 4).
+In the early/initial stage (stage 1, 0-4 days from symptoms onset), the most prominent CT pattern is small subpleural ground-glass opacities (GGOs), which then develop into crazy-paving (stage 2) and subsequent consolidations (stage 3).
+This case demonstrates a patient with laboratory-confirmed SARS-CoV-2.
+It illustrates the CT patterns of transition between the end of the initial stage (stage 1) and the beginning of the progressive stage (stage 2) and lung abnormalities progression to the peak stage (stage 3) of COVID-19 pneumonia.

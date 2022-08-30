@@ -1,0 +1,9 @@
+COVID-19 pneumonia - AGE : 75 years, GENDER : Male
+Presentation : Presented to ED with respiratory distress and dyspnea.
+CT : There are bilateral large areas of ground-glass opacities with crazy paving and, more evident at both bases, areas of consolidation.
+Enlarged mediastinal lymph nodes.
+X-ray : AP chest radiograph for CVC position shows the presence of extensive bilateral ground-glass opacities as demonstrated on the recent CT. Also right IJV catheter and ETT noted.
+Case Discussion : This patient tested positive for COVID-19.
+The causative agent, SARS-CoV-2, a coronavirus is spreading throughout the world.
+After China, which accounts for the majority of global cases, Italy is one of the nations with the highest number of confirmed infected cases (as of 9 March 2020).
+Early diagnosis improves the patient's outcome and the CT findings have been shown to be more sensitive than the confirmatory RT-PCR test for diagnosis in early disease.

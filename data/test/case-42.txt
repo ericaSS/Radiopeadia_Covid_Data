@@ -1,0 +1,12 @@
+COVID-19 pneumonia - AGE : 70 years, GENDER : Female
+Presentation : Fever, cough and shortness of breath.
+CT : Crazy-paving pattern with ground-glass opacities of peripheral distribution involving the right upper lobe mainly the dorsal segment as well as the right lower lobe.
+No mediastinal or hilar lymphadenopathy.
+No pleural effusion is seen.
+Case Discussion : The patient had positive RT-PCR testing for COVID-19.
+The main reported CT findings in adults with COVID-19 pneumonia are:
+ground-glass opacities (GGO): bilateral, subpleural, peripheral
+crazy paving appearance (GGOs and inter-/intra-lobular septal thickening)
+air space consolidation
+bronchovascular thickening in the lesion
+traction bronchiectasis

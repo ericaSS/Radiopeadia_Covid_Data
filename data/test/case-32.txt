@@ -1,0 +1,5 @@
+COVID-19 pneumonia - AGE : 70 years, GENDER : Male
+Presentation : Fever and dyspnea since three days ago.
+CT : Bilateral multi-lobar ground-glass opacities with peripheral distributions are seen in both lungs.
+Non-specific mediastinal lymph nodes.
+Case Discussion : The RT-PCR COVID-19 assay was positive, so this patient was deemed to have COVID-19 pneumonia.
