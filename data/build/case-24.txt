@@ -1,0 +1,7 @@
+COVID-19 pneumonia - AGE : 70 years, GENDER : Female
+Presentation : Fever and two days of odynophagia; positive test for SARS-CoV-2 RNA.
+X-ray : Opacity in the right lower lobe.
+3-day later : Slight increasing of the opacity in the right lower lung field, without changes in the other fields.
+Case Discussion : The patient had normal oxygen saturation and no lymphopenia.
+Although SARS-CoV-2 infection (COVID-19) is described as possibly having a rapidly progressive course, it can sometimes manifest itself as ground glass / ill-defined consolidation that remains relatively stable.
+In our case, the patient, despite her age, remained clinically stable and was discharged to home quarantine.

@@ -1,0 +1,11 @@
+COVID-19 pneumonia - AGE : 60 years, GENDER : Male
+Presentation : This patient presented to the emergency department with a six-day history of flu-like symptoms, persistent fever, cough, and respiratory distress.
+CT : CT demonstrates multifocal and bilateral ground-glass opacities scattered in both lungs, predominantly at peripheral, and posterior regions.
+An associated overlying intralobular septal line is giving a crazy-paving pattern.
+No significant mediastinal lymphadenopathy.
+No pericardial or pleural effusion.
+This CT shows the typical CT findings of COVID-19 pneumonia, which was confirmed by a nasopharyngeal swab.
+Case Discussion : Covid-19 is a viral disease caused by SARS-CoV-2.
+Chest CT is recommended in patients with suspected COVID-19 pneumonia because it may show characteristics findings and extent of the infection, as well as follow up of the disease.
+This case illustrates a patient with confirmatory laboratory testing and the typical CT features of COVID-19 pneumonia.
+The patient evolved with a worsening of the clinical symptoms, requiring hospitalization.

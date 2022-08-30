@@ -1,0 +1,7 @@
+COVID-19 pneumonia - AGE : 30 years, GENDER : Male
+Presentation : Young patient presents with high grade fever, chills and short of breath.
+X-Ray : Patchy air space opacities are seen in both lung mid lower zones.
+Diffuse ground glass opacities are also noted bilaterally.
+Regression of disease process after 06 days.
+Eventually patient became RT-PCR -ve and discharge home in stable condition.
+Case Discussion : This patient tested positive for RT-PCR of SARS-COV2 thus was considered to have COVID-19 pneumonia.

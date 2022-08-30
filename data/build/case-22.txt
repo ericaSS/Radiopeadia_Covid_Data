@@ -1,0 +1,8 @@
+COVID-19 pneumonia - AGE : 70 years, GENDER : Male
+Presentation : Dry cough and fever.
+On arrival to Emergency Room, SpO2 of 89% and lymphopenia.
+X-ray : No significant findings reported.
+In retrospect, a subtle ground-glass pattern can be seen in both lungs, with peripheral distribution.
+2-day : Bilateral ground-glass alveolar consolidation with peripheral distribution.
+Case Discussion : Microbiologic test was positive to SARS-CoV-2.
+This case shows how fast COVID-19 can progress, with typical radiological findings of patchy, bilateral alveolar consolidations with peripheral distribution and ground-glass density in early stages.

@@ -1,0 +1,6 @@
+COVID-19 pneumonia - AGE : 55 years, GENDER : Male
+Presentation : Fever and non-productive cough start from 5 days ago.
+X-ray : Patchy peripheral opacities are seen at the lung fields mid to lower zones.
+CT : Bilateral multi-lobar peripheral ground-glass and consolidative opacities are seen in both lungs, mostly mid to lower zones.
+Non-specific mediastinal lymph nodes.
+Case Discussion : The RT-PCR COVID-19 assay was positive, so this patient was deemed to have COVID-19 pneumonia.

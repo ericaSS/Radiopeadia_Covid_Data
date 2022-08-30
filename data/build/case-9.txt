@@ -1,0 +1,10 @@
+COVID-19 pneumonia - AGE : 35 years, GENDER : Male
+Presentation : This patient presented a history of high fever, cough, difficulty expanding the lungs, and dyspnea for eight days.
+CT : Large area of ground-glass opacity with thickening of the interlobular and intralobular septa, which represents the crazy-paving pattern, with superimposed air space consolidations, at the right upper lobe.
+There are also discrete bilateral ground-glass opacities with round morphology.
+There is no mediastinal, hilar or axillary lymphadenopathy, nor pleural effusion.
+This patient tested positive for coronavirus disease-19 and had typical CT findings of this disease - COVID-19 pneumonia.
+Case Discussion : Coronavirus disease-19 or Covid-19 is a viral pandemic infectious disease caused by SARS-CoV-2, in which most patients present with respiratory symptoms.
+The prevalent CT features of COVID-19 pneumonia are ground-glass opacity (GGO), GGO with reticular and interlobular septal thickening (crazy-paving pattern), and GGO with consolidation.
+This case illustrates a patient with laboratory-confirmed SARS-CoV-2 and the CT features of COVID-19 pneumonia.
+The patient recovered from the disease and was discharged well.

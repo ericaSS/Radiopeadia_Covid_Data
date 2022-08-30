@@ -1,0 +1,11 @@
+COVID-19 pneumonia - AGE : 85 years, GENDER : Female
+Presentation : Productive cough, dyspnea, and chest pain that started 12 days ago.
+CT : CT reveals multifocal and bilateral patchy areas of ground-glass opacities scattered in both lungs, predominantly at peripheral, and posterior regions, some of them showing discrete crazy-paving, associated with rare airspace consolidations.
+No significant mediastinal lymphadenopathy.
+No pericardial or pleural effusion.
+Case Discussion : CT study shows the typical CT findings of COVID-19 pneumonia, which was confirmed by positive laboratory tests.
+Covid-19 is a viral disease caused by SARS-CoV-2.
+Chest CT is an essential tool of the diagnostic work-up of this respiratory infection.
+The most common CT findings are pure ground-glass opacity (GGO), GGO with reticular and interlobular septal thickening, and GGO with consolidation, with predominant distribution in the posterior and peripheral part of the lungs.
+This case shows a patient with laboratory-confirmed SARS-CoV-2 and the typical CT features of COVID-19 pneumonia.
+The patient recovered well from the disease.

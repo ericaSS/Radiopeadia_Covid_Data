@@ -1,0 +1,8 @@
+COVID-19 pneumonia - AGE : Adult, GENDER : Female
+Presentation : Patient admitted for heart failure.
+Developed fever and dyspnea during hospitalization.
+X-ray : AP chest x-ray documents the presence of consolidation at both lung bases as well as in the peripheral mid zones.
+The heart is enlarged.
+Single-lead pacemaker and valvuloplasty noted.
+Case Discussion : RT-PCR test was positive for COVID-19.
+This case documents how, despite the "lockdown" established by many countries, hospital infections can affect patients especially if they are elderly.

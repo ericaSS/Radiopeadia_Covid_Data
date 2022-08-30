@@ -1,0 +1,5 @@
+COVID-19 pneumonia - AGE : 35 years, GENDER : Male
+Presentation : Fever and cough.
+CT : Patchy ill-defined ground glass opacities are seen at both lungs particularly at subpleural regions.
+Additionally, a few atelectatic bands are scattered bilaterally.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

@@ -1,0 +1,11 @@
+COVID-19 pneumonia - AGE : 45 years, GENDER : Male
+Presentation : This patient presented with fever, associated cough, and shortness of breath (dyspnea ++) for a week.
+He denies a sore throat.
+CT : CT demonstrates multilobar and bilateral ground-glass opacities with rounded morphology, mostly in the periphery of both lungs.
+There is no mediastinal hilar or axillary lymphadenopathy, nor pleural/pericardial effusion.
+This patient tested positive for coronavirus disease-19 and had typical CT findings of the disease.
+Thus, his diagnosis is COVID-19 pneumonia.
+Case Discussion : Coronavirus disease-19 or COVID-19 is a viral infectious disease caused by SARS-CoV-2.
+A combination of chest imaging elements and repeat laboratory RT-PCR may help to increase the COVID-19 diagnosis.
+This patient had laboratory-confirmed SARS-CoV-2, and he had the typical CT features of COVID-19 pneumonia.
+The patient recovered well.

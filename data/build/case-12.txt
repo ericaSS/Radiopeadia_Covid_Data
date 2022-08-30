@@ -1,0 +1,4 @@
+COVID-19 pneumonia - AGE : 45 years, GENDER : Male
+Presentation : Fever, cough and shortness of breath.
+CT : Multiple patchy ground glass opacities and consolidations are scattered in both lungs predominantly at subpleural regions.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

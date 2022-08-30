@@ -1,0 +1,5 @@
+COVID-19 pneumonia - AGE : 55 years, GENDER : Female
+Presentation : Cough from 3 days ago.
+CT : CT images show multilobar and mostly peripheral ground-glass opacities and nodules.
+No mediastinal lymphadenopathy has been seen.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.
