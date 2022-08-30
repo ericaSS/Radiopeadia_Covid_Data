@@ -1,0 +1,10 @@
+COVID-19 pneumonia - evolution over a week - AGE : 50 years, GENDER : Male
+Presentation : This middle aged man attended the emergency room for a dysthymic sensation 2-3 times a day, breathing difficulty and dry cough.
+In the complementary tests, only lymphopenia and elevated CRP stand out.
+Therefore, no coronavirus test was performed because he did not meet epidemiological criteria and the patient was discharged.
+X-ray : Day-1 : No significant findings.
+Lungs clear.
+Day-4 :  Patchy, ill-defined bilateral alveolar consolidations, with a peripheral distribution.
+Day-5 clinical deterioration : Radiological worsening, with consolidation in the left upper lobe.
+Day-7 : Radiological worsening, with typical findings of acute respiratory distress syndrome (ARDS).
+Case Discussion : In this case, we show the evolution of a case of COVID-19 pneumonia over one week, where evolution from normal radiography to ARDS is observed.

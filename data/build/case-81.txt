@@ -1,0 +1,4 @@
+COVID-19 pneumonia - AGE : 30 years, GENDER : Female
+Presentation : Fever and cough for 3 days.
+CT : Multiple and bilateral ground‐glass opacities in both lungs mostly with a peripheral distribution.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

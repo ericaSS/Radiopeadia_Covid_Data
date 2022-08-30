@@ -1,0 +1,9 @@
+COVID-19 pneumonia - AGE : 70 years, GENDER : Female
+Presentation : Shortness of breath, fever, cough.
+CT : Bilateral subpleural ground-glass opacity, linear subpleural consolidation in left upper lobe (LUL).
+No pleural effusion.
+No mediastinal lymphadenopathy.
+This patient has had positive RT-PCR testing for 2019-nCoV before CT, so CT findings are consistent with COVID-19 pneumonia CO-RADS 6.
+Day-15 : Transforming ground-glass opacity to subpleural fibrous stripes.
+Case Discussion : Initial chest CT shows typical radiological signs of COVID-19 pneumonia.
+Next chest CT shows an absorption stage of COVID-19 pneumonia.

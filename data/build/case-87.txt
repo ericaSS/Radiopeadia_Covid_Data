@@ -1,0 +1,8 @@
+COVID-19 pneumonia - AGE : 60 years, GENDER : Female
+Presentation : Fever and cough.
+X-ray : Patchy ill defined subpleural opacities are seen particularly at mid zone of right lung.
+CT : Bilateral subpleural illdefined ground glass opacities are seen more prominent at upper lobes.
+Subpleural ill-defined consolidations are noted at posterior segment of right upper lobe.
+In addition, partial collapse is noted at left lingular segment.
+There are also a few atelectatic bands at lung bases.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

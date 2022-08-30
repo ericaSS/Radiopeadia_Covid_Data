@@ -1,0 +1,8 @@
+COVID-19 pneumonia AGE : 65 years, GENDER : Male
+Presentation : This patient had symptoms 20 days ago when he presented fever, anorexia, chest pain, and diarrheal episodes.
+CT : CT reveals bilateral subpleural parenchymal bands or "fibrous stripes" in both lungs, predominantly at the right lung's peripheral, associated with minimal residual ground-glass opacities.
+This patient tested positive for SARS-CoV-2, and the CT findings are consistent for the late/absorption stage (stage 4) COVID-19 pneumonia.
+Case Discussion : Covid-19 is a disease caused by SARS-CoV-2.
+The temporal evolution of lung abnormalities in COVID-19 pneumonia helps radiologists determine the stage of disease.
+In stage 4 (absorption/late stage, > 14 days after the onset of symptoms), the lesions are gradually absorbed, leaving signs of fibrosis, including subpleural parenchymal bands, architectural distortion, tractions bronchiectasis, and minimal residual ground-glass opacities 1-6.
+This case demonstrates a patient with confirmatory laboratory testing for SARS-CoV-2, with the temporal CT features of stage 4 COVID-19 pneumonia.

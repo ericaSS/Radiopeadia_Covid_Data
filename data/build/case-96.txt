@@ -1,0 +1,7 @@
+COVID-19 pneumonia - AGE : 55 years, GENDER : Male
+Presentation : Fever, anosmia and shortness of breath, starting 7 days ago.
+X-ray : Bilateral peripheral patchy air space opacitites, more prominent in the left lower lobe, associated with broncovascular thickening.
+Case Discussion : The X-ray film shows typical features of advanced COVID-19 disease, as seen in many cases from the literature.
+A first sample was taken and tested negative for coronavirus disease.
+However, a family member living in the same house had a positive test at the same time.
+After hospitlization, a second sample was taken and tested positive for SARS-CoV-2.

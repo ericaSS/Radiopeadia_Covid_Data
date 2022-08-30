@@ -1,0 +1,4 @@
+COVID-19 pneumonia - AGE : 80 years, GENDER : Female
+Presentation : Dyspnea from 4 days ago.
+CT : Bilateral multilobar ground-glass opacities are seen at the lungs mostly with the peripheral distribution.
+Case Discussion : The RT-PCR COVID-19 assay was positive, so this patient was deemed to have COVID-19 pneumonia.

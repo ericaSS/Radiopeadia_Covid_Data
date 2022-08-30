@@ -1,0 +1,12 @@
+COVID-19 pneumonia AGE : 50 years, GENDER : male
+Presentation : This patient presented to the ER with desaturation and tachypneic.
+He reports that he started with episodic fever, dyspnea, cough, and odynophagia eight days ago.
+CT demonstrates bilateral, multilobar large areas of mixed consolidations and ground-glass opacities with reticular and interlobular septal thickening featuring the crazy-paving pattern.
+The lesions are mostly in the peripheral parts of the lungs.
+This patient tested positive for SARS-CoV-2, and the CT findings are consistent with the transition from the end of the progressive stage (stage 2) to the emerging peak stage (stages 3) COVID-19 pneumonia.
+CT shows improvement in the disease course, characterized by partial regression of the bilateral, multilobar areas of airspace consolidations leaving ground-glass opacities, with some subpleural parenchymal bands already emerging.
+CT demonstrates findings consistent with the end of the peak stage (stage 3) and the beginning of the late/absorption stage (stage 4) of COVID-19 pneumonia.
+Case Discussion : Covid-19 is a viral infectious disease in which most patients present with respiratory symptoms.
+Radiologists should become familiar with the tomographic temporal stages of this disease.
+The most prominent feature of the progressive stage (stage 2, day 5-8 from symptoms onset) are ground-glass opacities (GGOs) with the crazy-paving pattern; In the peak stage (stage 3, day 9-13), consolidation becomes prevalent; After 14 days, (stage 4), in the late or absorption stage the lesions undergo a gradual absorption, leaving tenuous residual GGOs and subpleural parenchymal bands.
+This case illustrates the temporal CT changes of progressive / peak stages (stages 2/3) with gradual improvement to the beginning of the absorption stage (stage 4) of COVID-19 pneumonia.

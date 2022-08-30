@@ -1,0 +1,5 @@
+COVID-19 pneumonia - mild- AGE : 30 years, GENDER : Female
+Presentation : Fever and cough.
+X-ray : Normal appearances.
+CT : Patchy ill defined subpleural ground glass opacities in the right lower lobe.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

@@ -1,0 +1,5 @@
+COVID-19 pneumonia - AGE : 65 years, GENDER : Male
+Presentation : Fever and cough.
+CT : Subpleural ground glass opacity with a few atelectatic bands are seen at right lower lobe.
+A 10mm nodule is also evident at posterobasal segment of right lung which seems to be fibrotic nodule.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

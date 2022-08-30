@@ -1,0 +1,6 @@
+COVID-19 pneumonia - AGE : 30 years, GENDER : Female
+Presentation : Fever and dyspnea for 3 days.
+CT : Bilateral multilobar ground-glass opacities/nodules are seen in both lungs, more predominantly in the peripheral mid to lower zones.
+No pleural effusion.
+No mediastinal lymphadenopathy.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

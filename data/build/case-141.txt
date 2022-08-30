@@ -1,0 +1,22 @@
+COVID-19 pneumonia AGE : 50 years, GENDER : Male
+Presentation : Primary health care worker with shortness of breath and productive cough for two weeks.
+History of worsening shortness of breath, orthopnea, fever, myalgia, and altered taste sensation for last three days.
+History of recent contact with a COVID-19 positive case.
+X-ray : Suspicion of an inhomogeneous opacity in the peripheral right lower lung zone.
+Left lung is well-aerated and clear.
+No pleural effusion or pneumothorax is seen.
+CT : Findings :  Scan demonstrates multiple scattered wide spread ground glass opacities in both lungs, particularly affecting the lower lobes.
+No pleural effusion, pneumothorax, or significant mediastinal lymphadenopathy is seen.
+Conclusion : Multiple scattered wide spread ground glass opacities in both lungs, particularly affecting the lower lobes.
+Considering the patient's history and exposure to the positive COVID-19 case, CT features are suggestive of COVID-19 pneumonia.
+The patient tested positive for COVID-19.
+Other laboratory investigations showed high LDH, ferritin, CRP, and creatine kinase (CK, CPK) levels.
+WBCs, D-dimer, CK-MB & troponin I were normal.
+Case Discussion : Patients with SARS-CoV-2 (COVID-19) infection primarily present with respiratory tract symptoms, like cough, difficulty in breathing, and fever.
+Patients may also complain of disturbance in sense of smell & taste, fatigue, myalgia, and joint pains.
+Rhabdomyolysis (skeletal muscle damage & necrosis) can be caused by different viral and bacterial infections.
+The influenza, parainfluenza, cytomegalic virus (CMV), Epstein Barr virus (EBV), Herpes Simplex virus (HSV), and Human Immunodeficiency Virus (HIV), are some well-known acute viral infections associated with rhabdomyolysis.
+Creatine kinase (CK), a muscle enzyme, is markedly elevated in rhabdomyolysis.
+Rhabdomyolysis can infrequently be seen in COVID-19 infection; however, this association is not well known.
+Recently, there is a case report of two patients who presented with rhabdomyolysis as the initial manifestation of COVID-19 infection with no respiratory symptoms .
+There is also a recent case report of a patient having rhabdomyolysis as a late complication of COVID-19 .

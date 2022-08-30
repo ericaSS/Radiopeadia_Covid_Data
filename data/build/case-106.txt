@@ -1,0 +1,4 @@
+Early stage COVID-19 pneumonia - AGE : 55 years, GENDER : Male
+Presentation : Fever and cough.
+CT : Focal patchy subpleural ground glass opacities are seen at left lower lobe.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

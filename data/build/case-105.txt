@@ -1,0 +1,4 @@
+Early stage COVID-19 pneumonia - AGE : 40 years, GENDER : Male
+Presentation : Fever and cough.
+CT : Patchy ill-defined ground glass opacities are scattered at both lung fields particularly at subpleural regions.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

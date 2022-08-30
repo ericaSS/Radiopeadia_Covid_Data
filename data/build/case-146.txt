@@ -1,0 +1,14 @@
+COVID-19 - pneumothorax AGE : 65 years, GENDER : Female
+Presentation : Patient with positive swab for COVID-19, was previously discharged from hospital, came back complaining of spiking temperature and shortness of breath.
+X-ray : There is a large right-sided pneumothorax associated with collapse of a significant proportion of the right lung which shows evidence of consolidation.
+The left lung is clear, the tip of the NG tube is below the level of the left hemidiaphragm.
+Case Discussion : COVID-19 is an infectious disease caused by a strain of coronavirus (coronavirus disease 2019).
+Despite lower sensitivity when compared to CT, plain chest radiograph is commonly the first-line imaging modality required.
+In very early stages or in cases of mild disease, chest radiographs can be normal, with findings being more extensive after ten to twelve days of the symptoms onset.
+Overall, the imaging findings on a chest radiograph are non-specific, however common findings have been reported, such as airspace opacities (either described as consolidations or ground-glass opacities), and in the majority of cases these are bilateral, peripheral and most commonly found in the lower zones.
+Pneumothorax associated with COVID-19 is only seen in about 1% of cases, and when present, raises suspicion for superadded bacterial infection and other diagnosis.
+In our patient's chest radiograph, there was a large right-sided pneumothorax with associated lung collapse and consolidation.
+On the left, lungs were clear.
+Besides a recent positive swab for COVID-19, on admission the patient was in type 1 respiratory failure and bloods showed high inflammatory markers.
+There was no underlying lung disease, smoking history and structural abnormality in the body that would predispose our patient to pneumothorax formation.
+The patient was treated with intravenous antibiotics and right chest drainage, with improvement in radiograph, clinical and laboratory findings and was discharged home with a follow-up in the Respiratory Clinic.

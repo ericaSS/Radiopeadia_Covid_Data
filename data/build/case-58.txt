@@ -1,0 +1,7 @@
+COVID-19 pneumonia - AGE : 50 years, GENDER : Female
+Presentation : An asymptomatic patient traveled from France to Algeria 4 days ago and was in contact with a positive COVID-19 patient.
+CT : Bilateral multilobar ground‐glass opacities (GGOs) of peripheral subpleural distribution involving mainly the lower lobes.
+No mediastinal or hilar lymphadenopathy.
+No pleural effusion.
+Case Discussion : The CT appearances are typical of COVID-19 pneumonia which was confirmed by a positive RT-PCR test.
+A retrospective study of 112 patients found that 54% of asymptomatic patients had pneumonic changes on CT.

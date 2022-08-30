@@ -1,0 +1,21 @@
+COVID-19 pneumonia - AGE : 65 years, GENDER : Male
+Presentation : Four-day history of high-grade fever, cough and myalgia.
+On admission, the patient was tachycardic but maintained oxygen saturation on low flow.
+On auscultation, he had bilateral crackles and crepitations.
+X-ray : Coarse patchy opacification of both lower zones which appear inflammatory in nature.
+No focal collapse or consolidation.
+The pleural surfaces are clear with normal cardio-mediastinal contour.
+Four days following admission, the patient developed increasing hypoxia and sepsis with hypotension, requiring intensive care admission for ventilation and inotropic support.
+AP supine portable CXR :
+The previously seen patchy opacities appear as areas of bilateral peripheral consolidations with air bronchograms.
+Consolidation above the horizontal fissure suggests right upper lobe pneumonia.
+Obliteration of the left heart border suggests lower lobe pneumonia.
+Support lines (ETT, NG, and left internal jugular CVC) are in situ.
+The British Society of Thoracic Imaging implemented standardised CXR imaging criteria which may help guide management in COVID-19 .
+classic/probable COVID-19 : lower lobe and peripheral predominant multiple opacities that are bilateral (>> unilateral);
+indeterminate for COVID-19 : does not fit classic or non-COVID-19 descriptors;
+non-COVID-19 : pneumothorax / lobar pneumonia / pleural effusion(s) / pulmonary oedema;
+other.
+Case Discussion : Throat swab reverse-transcription PCR was negative twice before testing positive for SARS-CoV-2 RNA on day 3 of admission.
+The findings on the initial film are subtle and there is a rapid and significant progression on the follow-up radiograph.
+Radiologists need to look out for these subtle changes when present and hot-report appropriately, particularly given the lag between admission and RT-PCR result availability for SARS-CoV-2 RNA.

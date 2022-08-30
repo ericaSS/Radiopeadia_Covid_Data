@@ -1,0 +1,8 @@
+COVID-19 pneumonia AGE : 50, GENDER : Male
+Presentation : Cough, shortness of breath for 2 weeks.
+Clinically suspected for COVID-19
+X-ray : Multifocal patchy opacities in bilateral lungs peripheries.
+CT : There are multifocal, confluent, bilateral and peripheral, ground glass opacities combined with septal thickening (crazy paving pattern) in both lungs.
+Minimal bilateral pleural effusion.
+No supracentimetric mediastinal lymph nodes.
+Case Discussion : In appropriate acute clinical setting; the imaging features are very likely for COVID-19 pneumonia.

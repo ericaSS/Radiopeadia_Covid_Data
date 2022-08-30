@@ -1,0 +1,11 @@
+COVID-19 pneumonia - AGE : 85 years, GENDER : Male
+Presentation : Patient presented with a cough and pyrexia.
+Recent history of travel to the Caribbean.
+PMH :  AF and prostate cancer.
+X-ray : Bilateral peripheral areas of air space opacification in the mid to lower zones.
+Appearances represent classical features of mild COVID-19 pneumonia.
+Incidental note is made of Chilaiditi sign.
+Case Discussion : Elderly patient with a recent travel history deemed high risk for COVID-19 pneumonia following clinical presentation.
+Findings confirmed with viral swabs for SARS-CoV2 RNA with positive RT-PCR.
+Appearances are considered 'typical' for COVID-19 with no further indication for CT diagnosis when confirmed with viral PCR.
+Patient was appropriately isolated and subsequently discharged following an uncomplicated recovery.

@@ -1,0 +1,8 @@
+COVID-19 pneumonia AGE : 50, GENDER : Female
+Presentation : Gradual onset of dry cough and shortness of breath.
+Dizziness.
+No fever.
+CT : Bilateral multi-focal subpleural ground-glass opacities predominantly over the posterior basal lobes.
+Features highly suggestive of atypical viral pneumonia... CORADS-5 high probability of Covid-19 infection.
+Case Discussion : Patient coming from an endemic area of COVID-19,with very high pre-test probability.
+Patient was immediately transferred to an isolation facility for treatment.

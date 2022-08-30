@@ -1,0 +1,11 @@
+COVID-19 pneumonia - AGE : 50 years, GENDER : Male
+Presentation : A physician with fever and sudden-onset dyspnea.
+CT : Multilobar and bilateral ground‐glass opacities are seen in both lungs, mostly in mid to lower lungs, although all lobes are affected, with a peripheral subpleural distribution.
+Case Discussion : This case was of a physician that had a fever for 4 days with sudden onset dyspnea on the fourth day post initial presentation.
+Chest CT in our department and subsequently RT-PCR testing confirmed COVID-19.
+COVID-19 is a zoonotic illness caused by SARS-CoV-2 (severe acute respiratory syndrome-coronavirus-2).
+The primary findings on chest CT have been reported as :
+ground-glass opacities (GGO) in all hospitalized patients;
+crazy paving appearance (GGOs and inter/intralobular septal thickening);
+air space consolidation;
+No mediastinal lymphadenopathy has been seen.

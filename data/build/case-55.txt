@@ -1,0 +1,19 @@
+COVID-19 pneumonia - AGE : None, GENDER : None
+Presentation : The patient presented on account of fever and urine symptoms 3 days ago.
+Currently on antibiotics noted to start coughing with drop in his saturations today.
+Also having high grade fever COVID 19 swab taken today。
+X-ray : Subtle bilateral mid and lower lung zones peripheral ground-glass opacities.
+No pleural effusion.
+CT : Imaging slightly degraded by respiratory movement artefact.
+There are multiple patches of ground glass opacification bilaterally involving all lobes.
+These are generally peripheral in location.
+There is consolidation in both lower lobes more extensive on the right.
+In the correct clinical context this may represent Covid19 pneumonia.
+No pleural or pericardial effusions.
+No suspicious focal lung nodules identified.
+The main airways are patent.
+No size significant axillary, hilar or mediastinal lymphadenopathy.
+No destructive bony lesions identified.
+Case Discussion : Multifocal bilateral lung changes which may represent COVID-19 in the correct clinical context.
+Correlation with inflammatory markers and PCR testing advised.
+The patient tested positive for COVID-19.

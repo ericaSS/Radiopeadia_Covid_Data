@@ -1,0 +1,5 @@
+COVID-19 pneumonia - AGE : 60 years, GENDER : Male
+Presentation : Dyspnea and chest pain from 4 days ago.
+CT : Bilateral multilobar and mostly peripheral ground-glass opacities are seen in both lungs predominantly in mid to lower zones.
+No mediastinal lymphadenopathy has been seen.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

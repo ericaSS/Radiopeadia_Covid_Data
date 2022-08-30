@@ -1,0 +1,5 @@
+COVID-19 pneumonia - AGE : 25 years, GENDER : Male
+Presentation : Patient arrived to ER with fever, dry cough and severe shortness of breath.
+X-ray : Subtle, peripheral ground-glass opacities seen in the upper and mid zones of the right lung, as well as superimposed to the left hilum.
+Case Discussion : Although most cases of COVID-19 disease with severe clinical symptoms are seen in elderly patients, this case was seen on a previously healthy young adult.
+The patient was admited to ICU unit and samples confirmed SARS-CoV-2 related disease.

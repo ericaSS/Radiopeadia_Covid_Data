@@ -1,0 +1,6 @@
+COVID-19 pneumonia - AGE : 50 years, GENDER : Female
+Presentation : Productive cough with a sore throat for 1 week, no fever or chest pain, traveling to Macau from Wuhan 3 days prior, denied close contact with wet market.
+X-ray : Multiple small bilateral areas of patchy confluent opacification, including a discrete rounded opacity in the right lower zone.
+CT : Multiple cotton-like patches density images in peripheral of both lungs.
+No mediastinal, hilar or axillary lymphadenopathy.
+Case Discussion : This patient tested positive for 2019-nCoV, and thus was deemed to have COVID-19 pneumonia.

@@ -1,0 +1,5 @@
+COVID-19 pneumonia - AGE : 35 years, GENDER : Male
+Presentation : Fever and chest pain for three days.
+CT : Ground glass opacities in both mid to lower zones mostly in a peripheral distribution.
+Air space consolidation in the right lower lobe posterodorsal segment.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19, so this patient was deemed to have COVID-19 pneumonia.

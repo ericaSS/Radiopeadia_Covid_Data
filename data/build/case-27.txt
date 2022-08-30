@@ -1,0 +1,18 @@
+COVID-19 pneumonia - AGE : 85 years, GENDER : Male
+Presentation : Worsening dyspnea.
+Past history of COPD.
+T2DM.
+Previous pancreatectomy.
+ETOH excess.
+Lymphopenia on admission.
+X-ray : Chest radiograph on admission demonstrates bilateral, almost symmetrical areas of peripheral consolidation with perihilar infiltrates and an indistinct left heart border.
+In an endemic area, appearances are highly suggestive of COVID-19.
+The patient underwent a CTPA three days later for subsequent deterioration with hypoxia.
+CT : Single slice axial acquisition in the lung windows demonstrates 'classical' appearances of subpleural organizing areas of consolidation with patchy peripheral ground-glass opacities.
+Appearances represent a severe case of COVID-19 pneumonia.
+Case Discussion : An elderly patient with multiple co-morbidities.
+Chest radiograph suspicious of COVID-19, which was later PCR confirmed.
+Peripheral predominance and progression to organizing pneumonia are currently a well-recognized finding in COVID-19.
+In cases of clinical deterioration where other causes are thought likely (such as a pulmonary embolus), CT imaging is indicated.
+Otherwise, chest radiographs are thought appropriate to monitor progress.
+Lymphopenia on admission may increase the pre-test probability in COVID-19.

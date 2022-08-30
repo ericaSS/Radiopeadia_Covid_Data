@@ -1,0 +1,10 @@
+COVID-19 pneumonia - AGE : 45 years, GENDER : Male
+Presentation : Fever and cough.
+CT : Multilobar and bilateral ground‐glass opacities/consolidations are seen in both lungs, mostly in mid to lower zones.
+Case Discussion : Subsequent RT-PCR testing confirmed COVID-19.
+COVID-19 is a zoonotic illness caused by SARS-CoV-2 (severe acute respiratory syndrome-coronavirus-2).
+The primary findings on chest CT have been reported as:
+ground-glass opacities (GGO) in all hospitalized patients
+crazy paving appearance (GGOs and inter/intralobular septal thickening)
+air space consolidation
+No mediastinal lymphadenopathy has been seen.

@@ -1,0 +1,5 @@
+COVID-19 pneumonia - AGE : 45 years, GENDER : Male
+Presentation : Dry cough, chest pain and dyspnea
+CT : Non contrast-enhanced CT shows multilobar and bilateral peripheral ground glass opacities.
+No mediastinal, hilar or axillary lymphadenopathy.
+Case Discussion : The RT-PCR COVID-19 assay was positive, so this patient was deemed to have COVID-19 pneumonia.

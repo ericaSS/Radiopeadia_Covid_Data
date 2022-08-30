@@ -1,0 +1,9 @@
+COVID-19 pneumonia - AGE : 40 years, GENDER : Male
+Presentation : Three days of high-grade fever with dry cough.
+X-ray : Bilateral air space patchy consolidations, mainly distributed in the right lung and left lower lung zone.
+No pleural effusion.
+No pneumothorax.
+Cardiac size appears normal.
+Case Discussion : This is a young male patient came with a typical history of COVID-19 :  fever and dry cough.
+The chest x-ray is typical for the disease in terms of patchy consolidations and lack pf pleural effusion and lymphadenopathy.
+The PCR test came positive, and there was no need to go for a chest CT scan.

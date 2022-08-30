@@ -1,0 +1,11 @@
+COVID-19 pneumonia - incidental finding in asymptomatic patient - AGE : 60 years, GENDER : Female
+Presentation : Routine CT thorax/abdomen follow up for oncologic treatment of a GI tract cancer.
+No known metastases.
+The patient was clinically well.
+CT : Peripheral ground glass opacifications with diffuse delineation in the left upper lobe, not present on previous exams.
+No other parenchymal changes.
+No lymphadenopathy, no pleural effusions.
+Case Discussion : This incidental finding was reported to the clinician as suspicious for COVID-19, and subsequent PCR testing confirmed the diagnosis.
+The case serves to illustrate that even patients presenting with no symptoms may have changes on chest CT.
+This is in keeping with previous reports, e.g.
+from the Diamond Princess, where 54% of asymptomatic but PCR confirmed cases proved to have CT findings.

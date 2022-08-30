@@ -1,0 +1,10 @@
+COVID-19 pneumonia - AGE : 50 years, GENDER : Female
+Presentation : Fever, cough and chest pain from 5 days ago.
+CT :  day-5th : Ground glass nodule is present at the left lower lobe laterobasal segment.
+day-7th : Ground glass nodule is present at the left lower lobe laterobasal segment.
+Peripheral ground-glass opacities are seen at the right lower lobe superior and basal segments as new findings.
+Case Discussion : The interesting point of the recent case is in the delay imagining presentations of COVID-19 pneumonia.
+When the patient referred to our imaging center for chest CT, we saw only a small ground-glass nodule at the left lower lobe.
+The patient didn't have a previous CT for comparison, because according to our experiences almost COVID-19 pneumonia will be detected at least on the fifth day after initial presentations.
+So regarding the clinical presentations and high prevalence of COVID-19 pneumonia in Iran, we repeat the chest CT, 48 hours later and finally, we found the new ground-glass opacities in the right lower lobe.
+Subsequently, the patient underwent RT-PCR COVID-19 assay and the result was positive.

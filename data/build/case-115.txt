@@ -1,0 +1,13 @@
+COVID-19 pneumonia - rapidly progressive - AGE : 60 years, GENDER : Male
+Presentation : Fever and odynophagia.
+Trip to Italy 7 days ago.
+Low oxygen saturation (SpO2 89%) and lymphopenia were observed.
+The patient presented clinical worsening during his stay in the emergency department, and radiological control was performed at 12 hours.
+SARS-CoV-2 RNA was detected.
+X-ray : On admission : Faint, ill-defined alveolar consolidations in both upper lobes.12 hours later : Radiological worsening with patchy, bilateral alveolar consolidations with panlobar opacities, suggesting ARDS secondary to COVID19.
+Three days later : Radiological stability, with slight improvement of the alveolar consolidation in right lower lobe.
+The patient still needs supportive care measures.
+Case Discussion : SARS-CoV-2 infection (COVID-19) can lead to rapidly progressive ARDS as shown in this case.
+The prognosis is poor and radiologic findings can go from ill-defined alveolar consolidations to bilateral consolidations with panlobar changes as seen in ARDS.
+Radiographic and computed tomography (CT) imaging early in the disease course may be normal; chest CT has been described as more sensitive than chest x-ray for the detection of characteristic bilateral, peripherally-predominant ground-glass opacities.
+However, the patient's clinical situation often does not allow a CT scan.

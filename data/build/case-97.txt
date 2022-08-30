@@ -1,0 +1,4 @@
+COVID-19 pneumonia - AGE : senior, GENDER : Male
+Presentation : Fever and elevated C-reactive protein.
+X-ray : Perihilar and apical, mostly peripheral, opacifications bilaterally.
+Case Discussion : COVID-19 radiographic appearances are similar to those of other respiratory infections.

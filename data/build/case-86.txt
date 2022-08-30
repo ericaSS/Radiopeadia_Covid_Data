@@ -1,0 +1,6 @@
+COVID-19 pneumonia - AGE : 65 years, GENDER : Male
+Presentation : Fever and cough.
+X-ray : Normal chest radiography.
+CT : CT scan performed 3 days after the normal chest xray.
+Patchy ground glass opacities are present at both lungs predominantly at subpleural regions.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

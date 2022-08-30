@@ -1,0 +1,32 @@
+COVID-19 pneumonia - AGE : 85 years, GENDER : Male
+Presentation : Recent onset of dry cough, severe dyspnea, fever and fatigue.
+CT : Findings :
+Quality : no artefacts;
+coronary sclerosis, mild aortic sclerosis;
+no significant mediastinal lymphadenopathy;
+Pulmonary findings:
+extensive patchy bilateral multi-lobar ground-glass opacities (GGO);
+predominantly peripheral distribution in the left lung, peripheral and central distribution in the right lung;
+partial consolidations along the bronchovasular bundles surrounded by ground-glass opacities (GGO);
+superimposed inter-and intralobular septal thickening (crazy-paving pattern) in the right lower lobe;
+bilateral vascular dilatation;
+Additional findings:
+pulmonary nodule (18mm) in the anteromedial segment of the left lower lobe;
+no pleural effusions.
+Impression:
+Findings are compatible with atypical pneumonia.
+In view of the patient's symptoms and the current COVID-19 pandemic, this is indicative of COVID-19 pneumonia.
+Key findings:
+extensive ground-glass opacities (GGO) with bilateral and multi-lobar distribution;
+crazy paving pattern (red arrows);
+combination of consolidations and surrounding ground-glass opacities also referred to as "Halo sign" (blue arrows);
+vascular dilatation (green arrows);
+fibrous bands or streaks (yellow arrow);
+air bronchogram (orange arrows);
+Case Discussion : This case illustrates a spectrum of findings in COVID-19 pneumonia :
+extensive ground-glass opacities (GGO);
+bilateral and multi-lobar distribution;
+crazy-paving pattern;
+combination of ground-glass opacities (GGO) and consolidation;
+Real-time polymerase chain reaction (PCR) after pharyngeal swab was positive for SARS-CoV-2 virus RNA.
+The patient has been put under isolation and referred to the intensive care unit (ICU).

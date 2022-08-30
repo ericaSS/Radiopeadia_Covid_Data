@@ -1,0 +1,14 @@
+COVID-19 - rapidly progressive acute respiratory distress syndrome (ARDS) - AGE : 70 years, GENDER : Female
+Presentation : Admitted with acute respiratory failure, fever (38ºC) and dyspnea.
+She was tachypneic (30 bpm), with lymphopenia and low oxygen saturation (SpO2 85%, PAFI<250).
+X-ray : On admission : Ill-defined bilateral alveolar consolidation with peripheral distribution.
+Day-1 : Radiological worsening, with changes within the lower lobes.
+Endotracheal tube and central venous line were required.
+Day-2 : Radiological worsening.
+Bilateral alveolar consolidation with panlobar change.
+Day-3 : Bilateral alveolar consolidation with panlobar change, with typical radiological findings of ARDS.
+Case Discussion : 24 hours after the last chest x-ray the patient passed away.
+COVID-19 is a novel viral pandemic with increasing incidence and a wide spectrum of disease severity.
+Many countries are currently (c. March 2020) experiencing community spread to persons without known infectious contacts.
+In Spain, the guidelines to determine who to test for COVID-19 are changing.
+This implies the risk that some patients discharged from the hospital at that moment, may develop days later, an ARDS.

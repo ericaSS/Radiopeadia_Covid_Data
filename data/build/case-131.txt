@@ -1,0 +1,6 @@
+COVID-19 pneumonia - pediatric - AGE : 13 years, GENDER : Male
+Presentation : Fever and cough.
+Traveled to high-risk COVID-19 area.
+CT : Single round ground-glass opacity and consolidation in the right lower lobe.
+There is no mediastinal, hilar lymphadenopathy or pleural effusion.
+Case Discussion : Although the CT findings weren't typical, because of traveling from a high-risk region, the patient underwent for testing with a positive RT-PCR result for COVID-19.

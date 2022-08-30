@@ -1,0 +1,4 @@
+COVID-19 pneumonia - AGE : 45 years, GENDER : Male
+Presentation : Fever and cough.
+CT : Patchy subpleural ground glass  and crazy paving opacities are seen at both lungs particularly at lower lobes.
+Case Discussion : This patient had positive RT-PCR testing for COVID-19.

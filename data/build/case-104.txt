@@ -1,0 +1,17 @@
+COVID-19 pneumonia - rapidly progressive- AGE : 80 years, GENDER : Male
+Presentation : Brought to the ER due to general discomfort, dysthermic sensation although without fever, dizziness for 1 week, and associating bilious vomiting today.
+No cough, although he complained of dyspnea.
+No contact with positive COVID-19 patients or recent trips outside Spain.
+Previously in the same month, he attended the ER concerning a foot ulcer.
+X-ray : Baseline x-ray - 1 week before admission : No significant findings.
+Day 1 of admission : Poorly defined opacities in both lungs, predominantly in the lower lobes, peripherally located and some of them coming together to form consolidations.
+Day 3 of admission : Radiological worsening due to greater density and extension of the ground glass opacities with a prominent peripheral and basal distribution within a multilobar involvement.
+Day 6 of admission : Bilateral alveolar consolidation with panlobar changes, with typical radiological findings of ARDS.
+Case Discussion : The patient remained in the intensive care unit since his admission at the hospital with an unfavorable clinical evolution.
+It showed a significant elevation of acute phase reactants and lymphopenia.
+Likewise, the patient was found to be hypoxemic with decreased oxygen saturation.
+Real-time polymerase chain reaction (PCR) after pharyngeal swab was positive for SARS-CoV-2 virus RNA.
+The patient died a day after the last x-ray.
+COVID-19 is a recent viral pandemic with a high incidence and variety of clinical manifestations, affecting multiple organs and systems, the most significant being the lung involvement, which has led to thousands of infections worldwide with a striking mortality rate.
+It can lead to rapidly progressive ARDS, as shown in this case.
+The prognosis is poor and radiologic findings can go from ill-defined alveolar consolidations to bilateral consolidations with panlobar changes as seen in ARDS.

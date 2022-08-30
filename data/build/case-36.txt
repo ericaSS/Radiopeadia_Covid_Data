@@ -1,0 +1,12 @@
+COVID-19 pneumonia - AGE : 35 years, GENDER : Female
+Presentation : Four-day history of dry cough, myalgia, pyrexia and sore throat.
+Admitted to hospital for worsening dyspnea.
+No past medical history.
+X-ray : First chest radiograph on admission demonstrates multiple patchy areas of peripheral air space opacification considered typical for COVID 19 with the appropriate history.
+No pleural effusions.
+2-days : Limited inspiratory effort, with radiological progression showing peri-hilar and peripheral areas of consolidation and new areas of interstitial thickening.
+Case Discussion : On admission, RT-PCR was positive for COVID-19.
+This case demonstrates that young patients with no past medical history are also at risk of deterioration and patient demographics should not provide a false sense of reassurance.
+Patchy peripheral areas of air space opacification are considered typical for COVID-19, hence, correlation with PCR is advised with no indication for a chest CT in the first instance.
+The pattern of progression demonstrated from initial air space opacification to interstitial thickening and consolidation have been previously recognized to occur between days 4-12 from symptomatic onset.
+Appropriate isolation should be advised on reports for all chest radiographs concerning for COVID-19.
